@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "ring-of-fire-cde3d": {
+      "hosting": {
+        "ringoffire": [
+          "ring-of-fire-cde3d"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "ring-of-fire-cde3d"
+  }
+}
